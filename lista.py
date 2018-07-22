@@ -4,4 +4,5 @@ while True:
     l.append(num)
     if num == 0:
         break
-print(l)
+print("lista = ", l)
+
